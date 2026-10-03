@@ -1,0 +1,1 @@
+# Write a program to check whether a given year is a century year (year ends with 00).
