@@ -3,6 +3,6 @@
 
 num = int(input("Enter your number to check it is divisible by 5 : "))
 if num % 5 ==0 :
-    print("Divisible by 5.")
+    print("Divisible by 5")
 else:
     print("not divisible by 5")
