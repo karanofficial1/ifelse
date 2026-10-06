@@ -4,4 +4,4 @@ character = input("Enter a character")
 if character =="a" or  character =="e" or character =="i" or character =="o" or character =="u":
     print("It is vowel.")
 else:
-    print("it is consonent.")
+    print("it is consonent")
